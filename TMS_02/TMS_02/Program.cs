@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+	    //Приветствие!
             Greeting teachMeSkills = new();
             teachMeSkills.HelloWorld();
         }
