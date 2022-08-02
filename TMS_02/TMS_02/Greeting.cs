@@ -14,6 +14,7 @@ namespace TMS_02
         {
             a = new();
             b = new();
+
             a.Hello();
             b.World();
         }
