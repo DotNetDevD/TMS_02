@@ -7,8 +7,7 @@
 	        //Приветствие!
             Greeting teachMeSkills = new();
             teachMeSkills.HelloWorld();
+            
         }
-        //test
-        //test1
     }
 }
