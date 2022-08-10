@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMS_02", "TMS_02\TMS_02.csproj", "{9BDC2694-B2DE-491F-B5F9-0DFC80ED0E3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TMS_02", "TMS_02\TMS_02.csproj", "{9BDC2694-B2DE-491F-B5F9-0DFC80ED0E3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_02", "Lesson_02", "{F2C18AA8-D556-43E1-B125-83A6476901FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,6 +20,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9BDC2694-B2DE-491F-B5F9-0DFC80ED0E3A} = {F2C18AA8-D556-43E1-B125-83A6476901FA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {173A22A6-0DE4-4A7A-9FA7-85B3C6A78E5E}
